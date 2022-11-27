@@ -1,4 +1,4 @@
-package za.ac.cput.cinemabookingsystem.domain.ticket;
+package za.ac.cput.cinemabookingsystem.domain.lookup;
 
 public class Ticket {
 

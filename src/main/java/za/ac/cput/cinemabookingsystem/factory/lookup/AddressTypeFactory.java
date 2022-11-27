@@ -1,4 +1,3 @@
-/*
 package za.ac.cput.cinemabookingsystem.factory.lookup;
 
 import za.ac.cput.cinemabookingsystem.domain.lookup.AddressType;
@@ -11,4 +10,3 @@ public class AddressTypeFactory {
         return new AddressType.Builder().id(id).name(name).build();
     }
 }
-*/
